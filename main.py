@@ -145,9 +145,9 @@ class Game:
         self.gameRunning = True
         self.close_clicked = False
 
-        # pygame.mixer.init()
-        # pygame.mixer.music.load('SweetBGM.mp3')
-        # pygame.mixer.music.play()
+        pygame.mixer.init()
+        pygame.mixer.music.load('SweetBGM.mp3')
+        pygame.mixer.music.play()
 
     def handle_events(self):
         events = pygame.event.get()
