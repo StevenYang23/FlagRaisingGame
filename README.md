@@ -1,7 +1,7 @@
 # FlagRaisingGame
 
 ## About: 
-Raise the flag using beta brain waves. The more you concentrates, the higher the flag goes.
+Raise the flag using beta brain waves. The more you concentrates, the higher the flag goes. Need to use muselsl to stream first.
 
 ## Screenshot: ![](https://github.com/StevenYang23/FlagRaisingGame/blob/main/screenshot.png)
 
